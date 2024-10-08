@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bavly</h1>
 
-- 🔭 I’m currently working on [Gates Jerusalem](https://github.com/bavlywagih/gates-jerusalem)
+- 🔭 I’m currently finished  [Gates Jerusalem](https://github.com/bavlywagih/gates-jerusalem)
 
 - 🌱 I’m currently learning **PHP , LARAVEL , Css , Js , Bootstrap , jQuery**
 
